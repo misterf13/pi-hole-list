@@ -3,4 +3,7 @@
 # Contact: here?
 
 127.0.0.1 a.adtng.com
+127.0.0.1 ads.trafficjunky.net
+127.0.0.1 bongacams.com
 127.0.0.1 cp.abbp1.com
+127.0.0.1 jsmcrjmp.com
