@@ -2,4 +2,5 @@
 # License: GPLv3
 # Contact: here?
 
+127.0.0.1 a.adtng.com
 127.0.0.1 cp.abbp1.com
